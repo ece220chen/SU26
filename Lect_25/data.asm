@@ -1,0 +1,15 @@
+.ORIG x4000
+
+.FILL x45
+.FILL x4006
+
+.FILL x43
+.FILL x4000
+
+.FILL x45
+.FILL x4002
+
+.FILL x42
+.FILL x0
+
+.END
